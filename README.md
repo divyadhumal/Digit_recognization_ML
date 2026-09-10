@@ -51,6 +51,7 @@ A Convolutional Neural Network (CNN) is built using Keras and TensorFlow to accu
 ## 📈 Results
 - Achieved high accuracy on test dataset  
 - Efficient in recognizing handwritten digits  
+<img width="1163" height="855" alt="image" src="https://github.com/user-attachments/assets/9a17073c-b762-428c-be68-98c33988df68" />
 
 ---
 
